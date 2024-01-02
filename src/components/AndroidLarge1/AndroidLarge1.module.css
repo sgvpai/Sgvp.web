@@ -1,0 +1,13 @@
+.root {
+  position: relative;
+  width: fit-content;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #d9d9d9;
+  overflow: hidden;
+  overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
